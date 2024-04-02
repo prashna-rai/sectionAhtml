@@ -1,0 +1,39 @@
+h2{
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width:100%;
+
+}
+th{
+    height:50px;
+    background-color: azure;
+}
+td{
+    text-align: center;
+    height: 30px;
+
+}
+td{
+
+}
+tr:nth-child(even){
+    background-color: rgb(181, 220, 160);
+
+}
+tr:hover{
+    background-color: white;
+
+}
+td img{
+    height: 25;
+    width: 25;
+    border: 3px solid ivory;
+    border-radius: 50%;
+}

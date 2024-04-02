@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  height: 100vh;
+  width: 100vw;
+  background-color: aquamarine;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1:hover {
+  color: red;
+}
+
+p {
+  color: green;
+  letter-spacing: 10px;
+  font-family: monospace;
+}/*# sourceMappingURL=main.css.map */
